@@ -8,3 +8,6 @@ The script will function to extract the unique values from a column from a .csv 
 
 
 ## List of dependencies
+
+This will depend on the program. 
+I'm not sure about other dependencies. 
